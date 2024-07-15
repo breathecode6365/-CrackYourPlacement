@@ -9,4 +9,5 @@ add_executable(_CrackYourPlacement
         .idea/modules.xml
         .idea/vcs.xml
         Array/FindTheDuplicate.cpp
-        README.md)
+        README.md
+        Array/SortColours.cpp)
