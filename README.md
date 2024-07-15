@@ -5,12 +5,8 @@ This repository contains the solutions I have submitted while practicing Arsh Go
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Daily Progress](#daily-progress)
+- [Daily Progress](#)
 - [Topics Covered](#topics-covered)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Introduction
 
