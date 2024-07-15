@@ -1,0 +1,3 @@
+D:/CP/-CrackYourPlacement/cmake-build-debug/CMakeFiles/_CrackYourPlacement.dir
+D:/CP/-CrackYourPlacement/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CP/-CrackYourPlacement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
