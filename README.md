@@ -5,7 +5,7 @@ This repository contains the solutions I have submitted while practicing Arsh Go
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Daily Progress](#)
+- [Daily Progress](https://github.com/breathecode6365/-CrackYourPlacement/graphs/commit-activity)
 - [Topics Covered](#topics-covered)
 
 ## Introduction
