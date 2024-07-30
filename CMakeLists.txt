@@ -10,4 +10,5 @@ add_executable(_CrackYourPlacement
         .idea/vcs.xml
         Array/FindTheDuplicate.cpp
         README.md
-        Array/SortColours.cpp)
+        Array/SortColours.cpp
+        Array/RemoveDuplicatesFromSortedArray.cpp)
