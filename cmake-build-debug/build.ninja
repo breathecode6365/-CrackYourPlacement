@@ -55,8 +55,8 @@ build CMakeFiles/_CrackYourPlacement.dir/Array/FindTheDuplicate.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir
   OBJECT_FILE_DIR = CMakeFiles\_CrackYourPlacement.dir\Array
 
-build CMakeFiles/_CrackYourPlacement.dir/Array/SortColours.cpp.obj: CXX_COMPILER___CrackYourPlacement_unscanned_Debug D$:/CP/-CrackYourPlacement/Array/SortColours.cpp || cmake_object_order_depends_target__CrackYourPlacement
-  DEP_FILE = CMakeFiles\_CrackYourPlacement.dir\Array\SortColours.cpp.obj.d
+build CMakeFiles/_CrackYourPlacement.dir/Array/MoveZeroes.cpp.obj: CXX_COMPILER___CrackYourPlacement_unscanned_Debug D$:/CP/-CrackYourPlacement/Array/MoveZeroes.cpp || cmake_object_order_depends_target__CrackYourPlacement
+  DEP_FILE = CMakeFiles\_CrackYourPlacement.dir\Array\MoveZeroes.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir
   OBJECT_FILE_DIR = CMakeFiles\_CrackYourPlacement.dir\Array
@@ -67,6 +67,18 @@ build CMakeFiles/_CrackYourPlacement.dir/Array/RemoveDuplicatesFromSortedArray.c
   OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir
   OBJECT_FILE_DIR = CMakeFiles\_CrackYourPlacement.dir\Array
 
+build CMakeFiles/_CrackYourPlacement.dir/Array/SortColours.cpp.obj: CXX_COMPILER___CrackYourPlacement_unscanned_Debug D$:/CP/-CrackYourPlacement/Array/SortColours.cpp || cmake_object_order_depends_target__CrackYourPlacement
+  DEP_FILE = CMakeFiles\_CrackYourPlacement.dir\Array\SortColours.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir
+  OBJECT_FILE_DIR = CMakeFiles\_CrackYourPlacement.dir\Array
+
+build CMakeFiles/_CrackYourPlacement.dir/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj: CXX_COMPILER___CrackYourPlacement_unscanned_Debug D$:/CP/-CrackYourPlacement/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.cpp || cmake_object_order_depends_target__CrackYourPlacement
+  DEP_FILE = CMakeFiles\_CrackYourPlacement.dir\CMakeFiles\3.27.0\CompilerIdCXX\CMakeCXXCompilerId.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir
+  OBJECT_FILE_DIR = CMakeFiles\_CrackYourPlacement.dir\CMakeFiles\3.27.0\CompilerIdCXX
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target _CrackYourPlacement
@@ -75,7 +87,7 @@ build CMakeFiles/_CrackYourPlacement.dir/Array/RemoveDuplicatesFromSortedArray.c
 #############################################
 # Link the executable _CrackYourPlacement.exe
 
-build _CrackYourPlacement.exe: CXX_EXECUTABLE_LINKER___CrackYourPlacement_Debug CMakeFiles/_CrackYourPlacement.dir/Array/FindTheDuplicate.cpp.obj CMakeFiles/_CrackYourPlacement.dir/Array/SortColours.cpp.obj CMakeFiles/_CrackYourPlacement.dir/Array/RemoveDuplicatesFromSortedArray.cpp.obj
+build _CrackYourPlacement.exe: CXX_EXECUTABLE_LINKER___CrackYourPlacement_Debug CMakeFiles/_CrackYourPlacement.dir/Array/FindTheDuplicate.cpp.obj CMakeFiles/_CrackYourPlacement.dir/Array/MoveZeroes.cpp.obj CMakeFiles/_CrackYourPlacement.dir/Array/RemoveDuplicatesFromSortedArray.cpp.obj CMakeFiles/_CrackYourPlacement.dir/Array/SortColours.cpp.obj CMakeFiles/_CrackYourPlacement.dir/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\_CrackYourPlacement.dir

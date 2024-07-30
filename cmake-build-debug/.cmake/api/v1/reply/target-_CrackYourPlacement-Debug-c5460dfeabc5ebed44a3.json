@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 11,
 				"parent" : 0
 			}
 		]
@@ -52,9 +52,11 @@
 			},
 			"sourceIndexes" : 
 			[
-				4,
-				6,
-				7
+				0,
+				1,
+				2,
+				3,
+				4
 			]
 		}
 	],
@@ -88,23 +90,14 @@
 	"sourceGroups" : 
 	[
 		{
-			"name" : "",
+			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
 				0,
 				1,
 				2,
 				3,
-				5
-			]
-		},
-		{
-			"name" : "Source Files",
-			"sourceIndexes" : 
-			[
-				4,
-				6,
-				7
+				4
 			]
 		}
 	],
@@ -112,46 +105,33 @@
 	[
 		{
 			"backtrace" : 1,
-			"path" : ".idea/-CrackYourPlacement.iml",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : ".idea/.gitignore",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : ".idea/modules.xml",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : ".idea/vcs.xml",
+			"compileGroupIndex" : 0,
+			"path" : "Array/FindTheDuplicate.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Array/FindTheDuplicate.cpp",
-			"sourceGroupIndex" : 1
+			"path" : "Array/MoveZeroes.cpp",
+			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "README.md",
+			"compileGroupIndex" : 0,
+			"path" : "Array/RemoveDuplicatesFromSortedArray.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Array/SortColours.cpp",
-			"sourceGroupIndex" : 1
+			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Array/RemoveDuplicatesFromSortedArray.cpp",
-			"sourceGroupIndex" : 1
+			"path" : "cmake-build-debug/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"

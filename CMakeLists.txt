@@ -3,12 +3,9 @@ project(_CrackYourPlacement)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(_CrackYourPlacement
-        .idea/-CrackYourPlacement.iml
-        .idea/.gitignore
-        .idea/modules.xml
-        .idea/vcs.xml
-        Array/FindTheDuplicate.cpp
-        README.md
-        Array/SortColours.cpp
-        Array/RemoveDuplicatesFromSortedArray.cpp)
+# Collect all .cpp files in the project
+file(GLOB_RECURSE SOURCES
+        "${CMAKE_SOURCE_DIR}/*.cpp"
+)
+
+add_executable(_CrackYourPlacement ${SOURCES})
